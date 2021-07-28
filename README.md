@@ -11,6 +11,6 @@ Funcionalidades
 - Ingreso y Registro
 - Visualización
 - Actualización
-- Eliminacion
+- Eliminación
 
 ![plot](https://github.com/ChristopherMaur/Systema-de-ayudantias/blob/main/MER2.png)

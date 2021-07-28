@@ -2,7 +2,7 @@
 
 Modulo de gestión.
 
-- alumonos
+- alumnos
 - profesores
 - admin
 
